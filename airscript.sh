@@ -1,6 +1,8 @@
 #! /bin/bash
 # check nearby wireless networks
 # attempt to break WPA2 security
+# uses airmon, airodump, airolib, aircrack
+# thc-hydra, network manager
 
 echo starting the script...; sleep 1s
 
