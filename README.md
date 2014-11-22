@@ -1,6 +1,7 @@
 airScript
 =========
 
-Bash scripts for using aircrack-ng, nmap, and thc-hydra to attack WPA2 and SSH.
+Requires:
+ - x-term GUI (to work around airodump-ng)
 
 V2 is an attempt to automate the process.
